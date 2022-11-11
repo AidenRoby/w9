@@ -1,0 +1,51 @@
+.navbar-center{
+    position: relative;
+}
+
+.nav-bgcolor{
+    background-color: rgb(117, 226, 226);
+}
+
+.navbar a{
+    color: white;
+}
+
+.dropdown-menu a{
+    color: black;
+}
+
+
+.hello-txt-hdr{
+    text-align: center;
+}
+
+.h1-p-txt{
+    text-align: center;
+    padding: 10px;
+}
+
+.jumbo{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.459);
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+
+.card-images{
+    height: 250px;
+    object-fit: cover;
+}
+
+.jumbo-container{
+    background-image: url(japan.jpg);
+    width: 100%;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-deck{
+    width: 100%;
+}
